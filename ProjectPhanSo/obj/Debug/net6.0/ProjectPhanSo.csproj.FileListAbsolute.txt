@@ -1,0 +1,14 @@
+D:\Study\HK5\Testcase\New folder (2)\DemoUnit\ProjectPhanSo\bin\Debug\net6.0\ProjectPhanSo.exe
+D:\Study\HK5\Testcase\New folder (2)\DemoUnit\ProjectPhanSo\bin\Debug\net6.0\ProjectPhanSo.deps.json
+D:\Study\HK5\Testcase\New folder (2)\DemoUnit\ProjectPhanSo\bin\Debug\net6.0\ProjectPhanSo.runtimeconfig.json
+D:\Study\HK5\Testcase\New folder (2)\DemoUnit\ProjectPhanSo\bin\Debug\net6.0\ProjectPhanSo.dll
+D:\Study\HK5\Testcase\New folder (2)\DemoUnit\ProjectPhanSo\bin\Debug\net6.0\ProjectPhanSo.pdb
+D:\Study\HK5\Testcase\New folder (2)\DemoUnit\ProjectPhanSo\obj\Debug\net6.0\ProjectPhanSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\HK5\Testcase\New folder (2)\DemoUnit\ProjectPhanSo\obj\Debug\net6.0\ProjectPhanSo.AssemblyInfoInputs.cache
+D:\Study\HK5\Testcase\New folder (2)\DemoUnit\ProjectPhanSo\obj\Debug\net6.0\ProjectPhanSo.AssemblyInfo.cs
+D:\Study\HK5\Testcase\New folder (2)\DemoUnit\ProjectPhanSo\obj\Debug\net6.0\ProjectPhanSo.csproj.CoreCompileInputs.cache
+D:\Study\HK5\Testcase\New folder (2)\DemoUnit\ProjectPhanSo\obj\Debug\net6.0\ProjectPhanSo.dll
+D:\Study\HK5\Testcase\New folder (2)\DemoUnit\ProjectPhanSo\obj\Debug\net6.0\refint\ProjectPhanSo.dll
+D:\Study\HK5\Testcase\New folder (2)\DemoUnit\ProjectPhanSo\obj\Debug\net6.0\ProjectPhanSo.pdb
+D:\Study\HK5\Testcase\New folder (2)\DemoUnit\ProjectPhanSo\obj\Debug\net6.0\ProjectPhanSo.genruntimeconfig.cache
+D:\Study\HK5\Testcase\New folder (2)\DemoUnit\ProjectPhanSo\obj\Debug\net6.0\ref\ProjectPhanSo.dll

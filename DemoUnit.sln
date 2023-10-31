@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectPhanSo", "ProjectPhanSo\ProjectPhanSo.csproj", "{4ABC4274-5B27-4A1B-980C-AB1E96AEE32C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectPhanSo.Tests", "ProjectPhanSo.Tests\ProjectPhanSo.Tests.csproj", "{22C42677-4D04-487E-A2A4-93D2BF6B65A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ABC4274-5B27-4A1B-980C-AB1E96AEE32C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABC4274-5B27-4A1B-980C-AB1E96AEE32C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABC4274-5B27-4A1B-980C-AB1E96AEE32C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABC4274-5B27-4A1B-980C-AB1E96AEE32C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22C42677-4D04-487E-A2A4-93D2BF6B65A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C42677-4D04-487E-A2A4-93D2BF6B65A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C42677-4D04-487E-A2A4-93D2BF6B65A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C42677-4D04-487E-A2A4-93D2BF6B65A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C00227F2-3A34-4B03-A88F-20CED69B10EF}
+	EndGlobalSection
+EndGlobal
